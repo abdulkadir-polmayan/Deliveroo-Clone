@@ -11,7 +11,7 @@ function DetailsScreen({ navigation }) {
   return (
     <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
       <Text>Details Screen h </Text>
-      <Text>Details Screen h </Text>
+      <Text>Details Scdreen h </Text>
 
       <Button
         title="Go to again Details"
